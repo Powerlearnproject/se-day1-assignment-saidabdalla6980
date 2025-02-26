@@ -9,13 +9,13 @@ The importance of software engineering in the tech industry is immense. It’s r
 
 2. Key Milestones in the Evolution of Software Engineering
 
-1. The Birth of Software Engineering (1968 – The "Crisis"):
+a. The Birth of Software Engineering (1968 – The "Crisis"):
    In the 1960s, software development was chaotic and unstructured, leading to failed projects, missed deadlines, and costly errors. In 1968, the term "software engineering" was coined during a NATO conference, marking the beginning of a shift toward structured methodologies, setting the stage for more reliable and scalable software development practices.
 
-2. The Rise of Object-Oriented Programming (1980s – The Lego Revolution):
+b. The Rise of Object-Oriented Programming (1980s – The Lego Revolution):
    In the 1980s, Object-Oriented Programming (OOP) introduced a more organized way of developing software. By creating reusable "objects," developers could write modular code that could be reused across multiple applications, making development faster, more efficient, and easier to maintain.
 
-3. The Agile Revolution (2001 – Software Gets Flexible & Fast):
+c. The Agile Revolution (2001 – Software Gets Flexible & Fast):
    The Agile Manifesto, created in 2001, revolutionized software development by promoting a flexible, iterative approach. Instead of rigid, long-term planning, Agile emphasizes quick cycles, regular feedback, and adaptability. This led to faster delivery, continuous improvement, and more user-focused software products.
 
 3. Phases of the Software Development Life Cycle (SDLC)
